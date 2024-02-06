@@ -4,7 +4,6 @@
 | Audience      | Prerequisites | Duration    |
 | ------------- | ------------- | ----------- |
 | Biologists    |Install R Studio|~ 1 hour    |
-| ------------- | ------------- | ----------- |
 | Biologists    |Install Seurat and SeuratData|~ 0.5 hour    |
 
 
